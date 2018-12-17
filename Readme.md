@@ -11,9 +11,9 @@ All the terms must be of the either forms :
  - Degree 2: **a * X^2** or **X^2**
 
 eg.
-> monome <+/-> monome = 0  
-> monome <+/-> monome = monome <+/-> monome  
-> monome <+/-> monome <+/-> monome = monome <+/-> monome
+> monomial <+/-> monomial = 0  
+> monomial <+/-> monomial = monomial <+/-> monomial  
+> monomial <+/-> monomial <+/-> monomial = monomial <+/-> monomial
 
 ## How to use the program
 
